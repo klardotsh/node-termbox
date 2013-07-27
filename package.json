@@ -1,0 +1,12 @@
+{
+  "name": "termbox",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "termbox bindings for node.js",
+  "author": "Josh Klar <j@iv597.com>",
+  "engines": {
+    "node": ">=0.1.0"
+  },
+  "license": "custom"
+}
+
